@@ -1,0 +1,12 @@
+{
+  "name": "ProjetoCachoeiras",
+  "displayName": "ProjetoCachoeiras",
+  "expo": {
+    "name": "ProjetoCachoeiras",
+    "slug": "ProjetoCachoeiras",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
